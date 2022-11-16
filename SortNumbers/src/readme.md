@@ -1,4 +1,4 @@
-**User Login**
+**SortNumber**
 ---
 ---
 Kullanıcıdan 3 sayı alan ve bu sayıları büyükten küçüğe ve küçükten büyüğe sıralayan java programı.
